@@ -94,4 +94,5 @@ grades = [70,80.0,90,100]
 dna=input("Enter DNA sequence:")
 
 
-
+for i in range(0, 12, 3):
+  print(i)
